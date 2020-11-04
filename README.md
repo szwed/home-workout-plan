@@ -27,3 +27,6 @@ AMRAP 18 minutes
 * 10 sit ups
 * 15 air squats
 * 20 burpees
+
+
+# Idoor Rower
