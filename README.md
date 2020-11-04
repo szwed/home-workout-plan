@@ -19,3 +19,11 @@ Every 2 minutes for 20 minutes
 * 20 mountain climbers
 * HR burpees
 * 15 sumo squats
+
+### Day 3
+
+AMRAP 18 minutes
+* 5 push ups
+* 10 sit ups
+* 15 air squats
+* 20 burpees
